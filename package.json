@@ -1,0 +1,21 @@
+{
+  "name": "stylus-requires",
+  "version": "0.1.0",
+  "description": "Quickly find dependencies in a stylus string",
+  "main": "index.js",
+  "repository": "https://github.com/mvanasse/stylus-requires.git",
+  "keywords": [
+    "stylus",
+    "require",
+    "requires"
+  ],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "license": "MIT"
+}
