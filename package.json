@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Quickly find dependencies in a stylus string",
   "main": "index.js",
-  "repository": "https://github.com/mvanasse/stylus-requires.git",
+  "repository": "https://github.com/mndvns/stylus-requires.git",
   "keywords": [
     "stylus",
     "require",
